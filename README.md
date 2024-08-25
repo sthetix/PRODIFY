@@ -1,4 +1,4 @@
-# PRODIFY - The PRODINFO Editor
+# PRODIFY - The Nintendo Switch PRODINFO Editor
 
 
 
