@@ -45,3 +45,7 @@ Before using PRODIFY, ensure you have:
 
 - **Intended Use**: PRODIFY is intended primarily for use on banned consoles. Modifying `prodinfo` files on active or online consoles may result in a ban.
 - **Normalization**: When using a donor NAND generated with `prodinfo_gen`, PRODIFY can normalize the serial number and body color to match the console's original settings.
+
+<a href="https://www.buymeacoffee.com/sthetixofficial" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
