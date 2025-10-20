@@ -1,0 +1,8 @@
+# Ignore specific folders
+archive/
+icon/
+releases/
+
+*.exe
+
+
